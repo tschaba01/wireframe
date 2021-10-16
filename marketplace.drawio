@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2021-10-16T08:25:05.722Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" version="15.5.4" etag="WC-UteEanFAlxkKoQld_" type="github"><diagram id="Olf5iEthpdNTA9F73XNJ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-16T08:32:38.559Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="ZWdivmDgVBBZwyI--Msq" version="15.5.4" type="github">
+  <diagram id="Olf5iEthpdNTA9F73XNJ" name="Page-1">
+    <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NOaM9fvKxGlRbzm2E-wZ-1" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.ipad7inch;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="100" width="366" height="549" as="geometry" />
+        </mxCell>
+        <mxCell id="NOaM9fvKxGlRbzm2E-wZ-4" value="Vőfély, Ceremónia mester" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="260" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NOaM9fvKxGlRbzm2E-wZ-5" value="Helyszín, catering, torta" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="260" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NOaM9fvKxGlRbzm2E-wZ-6" value="Fotó, videó, Fotógép" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="375" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NOaM9fvKxGlRbzm2E-wZ-7" value="Zene" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="490" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NOaM9fvKxGlRbzm2E-wZ-8" value="Ruha, ékszer" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="260" y="505" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NOaM9fvKxGlRbzm2E-wZ-9" value="Esküvő- és szertartás-szervező" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="375" y="505" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NOaM9fvKxGlRbzm2E-wZ-10" value="Extrák" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="490" y="504.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NOaM9fvKxGlRbzm2E-wZ-11" value="Dekor, Meghívók, Virág" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="373" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NOaM9fvKxGlRbzm2E-wZ-12" value="Szépség" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="490" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NOaM9fvKxGlRbzm2E-wZ-13" value="Wedding Crew" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="150" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NOaM9fvKxGlRbzm2E-wZ-14" value="Keresés" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="264" y="280" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NOaM9fvKxGlRbzm2E-wZ-15" value="Szűrők" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="150" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
