@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2021-10-16T07:35:22.468Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" version="15.5.4" etag="VUcrOc-51NCBOq-HAlxt" type="github"><diagram id="Zd_p6vn9Mucd1gjnwBZi">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-16T07:52:41.585Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="iZpjMd1ovQmG5ZrELNyp" version="15.5.4" type="github">
+  <diagram id="Zd_p6vn9Mucd1gjnwBZi" name="Page-1">
+    <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3jLeXB2vgVdt_9WdbeqD-1" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.ipad7inch;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="231" y="110" width="366" height="549" as="geometry" />
+        </mxCell>
+        <mxCell id="3jLeXB2vgVdt_9WdbeqD-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="373" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3jLeXB2vgVdt_9WdbeqD-3" value="Kép feltöltése" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="383" y="215" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3jLeXB2vgVdt_9WdbeqD-5" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#000000;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" vertex="1" parent="1">
+          <mxGeometry x="275" y="305" width="25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3jLeXB2vgVdt_9WdbeqD-7" value="Teljes név" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="314" y="300" width="226" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3jLeXB2vgVdt_9WdbeqD-8" value="E-mail" style="whiteSpace=wrap;html=1;align=center;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="314" y="350" width="226" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3jLeXB2vgVdt_9WdbeqD-9" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#000000;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" vertex="1" parent="1">
+          <mxGeometry x="275" y="360" width="25" height="13.25" as="geometry" />
+        </mxCell>
+        <mxCell id="3jLeXB2vgVdt_9WdbeqD-10" value="Jelszó" style="whiteSpace=wrap;html=1;align=center;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="314" y="450" width="226" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3jLeXB2vgVdt_9WdbeqD-12" value="Telefonszám" style="whiteSpace=wrap;html=1;align=center;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="314" y="400" width="226" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3jLeXB2vgVdt_9WdbeqD-13" value="Jelszó megerősítése" style="whiteSpace=wrap;html=1;align=center;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="314" y="500" width="226" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3jLeXB2vgVdt_9WdbeqD-16" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.facebook;fillColor=#6294E4;gradientColor=#1A2665;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="360" y="553.1" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3jLeXB2vgVdt_9WdbeqD-17" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.google;gradientColor=#DFDEDE;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="290" y="556.1999999999999" width="40" height="38.45" as="geometry" />
+        </mxCell>
+        <mxCell id="3jLeXB2vgVdt_9WdbeqD-18" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.apple;fillColor=#807E7E;gradientColor=#1B1C1C;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="430" y="554.65" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3jLeXB2vgVdt_9WdbeqD-19" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.instagram;gradientColor=#DFDEDE;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="490" y="550" width="50" height="43.1" as="geometry" />
+        </mxCell>
+        <mxCell id="3jLeXB2vgVdt_9WdbeqD-21" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#000000;shadow=0;dashed=0;shape=mxgraph.ios7.icons.locked;" vertex="1" parent="1">
+          <mxGeometry x="280" y="505" width="15" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3jLeXB2vgVdt_9WdbeqD-23" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#000000;shadow=0;dashed=0;shape=mxgraph.ios7.icons.locked;" vertex="1" parent="1">
+          <mxGeometry x="280" y="455" width="15" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3jLeXB2vgVdt_9WdbeqD-25" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="275" y="400" width="20" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
