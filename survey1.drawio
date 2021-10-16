@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2021-10-16T08:13:17.217Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" version="15.5.4" etag="EKX_13CLwfXxjyZ4Gon-" type="github"><diagram id="yRBs_rvxJsuLEc17jiD1">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-16T08:16:05.240Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="rNwWOxkP-FyCdNDsEBBQ" version="15.5.4" type="github">
+  <diagram id="yRBs_rvxJsuLEc17jiD1" name="Page-1">
+    <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8cxyUb1wpEKEei9bq-bw-1" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.ipad7inch;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="100" width="366" height="549" as="geometry" />
+        </mxCell>
+        <mxCell id="8cxyUb1wpEKEei9bq-bw-2" value="Vissza" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="560" width="164" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8cxyUb1wpEKEei9bq-bw-3" value="Tovább" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="560" width="164" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8cxyUb1wpEKEei9bq-bw-4" value="Válassz..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="274" y="170" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8cxyUb1wpEKEei9bq-bw-5" value="Menyasszony" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#FF0080;" vertex="1" parent="1">
+          <mxGeometry x="317" y="290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8cxyUb1wpEKEei9bq-bw-6" value="Vőlegény" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="481" y="290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8cxyUb1wpEKEei9bq-bw-10" value="Név" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="410" width="230" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
